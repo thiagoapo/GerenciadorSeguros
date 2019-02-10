@@ -1,0 +1,2 @@
+# GerenciadorSeguros
+HandsON - SegFy
